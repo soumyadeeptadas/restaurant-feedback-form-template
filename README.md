@@ -2,5 +2,5 @@
 Template for restaurant feedback form
 
 
-### Codepen
+### Try it here
 #### https://codepen.io/soumyadeepta_das/full/XWbwdjd
